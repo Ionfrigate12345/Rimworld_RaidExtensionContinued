@@ -1,0 +1,7 @@
+D:\OneDrive\Games\RimworldModSources\RaidExtensionContinued\1.5\Source\ModRimWorldRaidExtension\obj\Debug\ModRimWorldRaidExtension.csproj.AssemblyReference.cache
+D:\OneDrive\Games\RimworldModSources\RaidExtensionContinued\1.5\Source\ModRimWorldRaidExtension\obj\Debug\ModRimWorldRaidExtension.csproj.CoreCompileInputs.cache
+D:\OneDrive\Games\RimworldModSources\RaidExtensionContinued\1.5\Assemblies\ModRimWorldRaidExtension.dll
+D:\OneDrive\Games\RimworldModSources\RaidExtensionContinued\1.5\Assemblies\ModRimWorldRaidExtension.pdb
+D:\OneDrive\Games\RimworldModSources\RaidExtensionContinued\1.5\Source\ModRimWorldRaidExtension\obj\Debug\ModRimWo.A9DA73CC.Up2Date
+D:\OneDrive\Games\RimworldModSources\RaidExtensionContinued\1.5\Source\ModRimWorldRaidExtension\obj\Debug\ModRimWorldRaidExtension.dll
+D:\OneDrive\Games\RimworldModSources\RaidExtensionContinued\1.5\Source\ModRimWorldRaidExtension\obj\Debug\ModRimWorldRaidExtension.pdb
