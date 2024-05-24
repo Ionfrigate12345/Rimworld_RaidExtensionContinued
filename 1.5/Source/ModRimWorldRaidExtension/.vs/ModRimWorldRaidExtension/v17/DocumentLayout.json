@@ -3,14 +3,35 @@
   "WorkspaceRootPath": "D:\\OneDrive\\Games\\RimworldModSources\\RaidExtensionContinued\\1.5\\Source\\ModRimWorldRaidExtension\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ModRimWorldRaidExtension||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{81E895E3-BA89-436A-9DA2-FCC7467E2487}|ModRimWorldRaidExtension.csproj|d:\\onedrive\\games\\rimworldmodsources\\raidextensioncontinued\\1.5\\source\\modrimworldraidextension\\incident\\incidentworkerhostiletraveler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E895E3-BA89-436A-9DA2-FCC7467E2487}|ModRimWorldRaidExtension.csproj|solutionrelative:incident\\incidentworkerhostiletraveler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E895E3-BA89-436A-9DA2-FCC7467E2487}|ModRimWorldRaidExtension.csproj|d:\\onedrive\\games\\rimworldmodsources\\raidextensioncontinued\\1.5\\source\\modrimworldraidextension\\incident\\raidstrategyworkerlogging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E895E3-BA89-436A-9DA2-FCC7467E2487}|ModRimWorldRaidExtension.csproj|solutionrelative:incident\\raidstrategyworkerlogging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E895E3-BA89-436A-9DA2-FCC7467E2487}|ModRimWorldRaidExtension.csproj|d:\\onedrive\\games\\rimworldmodsources\\raidextensioncontinued\\1.5\\source\\modrimworldraidextension\\incident\\incidentworkerpoaching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E895E3-BA89-436A-9DA2-FCC7467E2487}|ModRimWorldRaidExtension.csproj|solutionrelative:incident\\incidentworkerpoaching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E895E3-BA89-436A-9DA2-FCC7467E2487}|ModRimWorldRaidExtension.csproj|d:\\onedrive\\games\\rimworldmodsources\\raidextensioncontinued\\1.5\\source\\modrimworldraidextension\\incident\\incidentworkerlogging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E895E3-BA89-436A-9DA2-FCC7467E2487}|ModRimWorldRaidExtension.csproj|solutionrelative:incident\\incidentworkerlogging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E895E3-BA89-436A-9DA2-FCC7467E2487}|ModRimWorldRaidExtension.csproj|d:\\onedrive\\games\\rimworldmodsources\\raidextensioncontinued\\1.5\\source\\modrimworldraidextension\\incident\\incidentworkerhostiletradercaravanpassing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E895E3-BA89-436A-9DA2-FCC7467E2487}|ModRimWorldRaidExtension.csproj|solutionrelative:incident\\incidentworkerhostiletradercaravanpassing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E895E3-BA89-436A-9DA2-FCC7467E2487}|ModRimWorldRaidExtension.csproj|d:\\onedrive\\games\\rimworldmodsources\\raidextensioncontinued\\1.5\\source\\modrimworldraidextension\\util\\harmonyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E895E3-BA89-436A-9DA2-FCC7467E2487}|ModRimWorldRaidExtension.csproj|solutionrelative:util\\harmonyutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81E895E3-BA89-436A-9DA2-FCC7467E2487}|ModRimWorldRaidExtension.csproj|d:\\onedrive\\games\\rimworldmodsources\\raidextensioncontinued\\1.5\\source\\modrimworldraidextension\\ai\\aisingle\\jobgiveraifightanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81E895E3-BA89-436A-9DA2-FCC7467E2487}|ModRimWorldRaidExtension.csproj|solutionrelative:ai\\aisingle\\jobgiveraifightanimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81E895E3-BA89-436A-9DA2-FCC7467E2487}|ModRimWorldRaidExtension.csproj|d:\\onedrive\\games\\rimworldmodsources\\raidextensioncontinued\\1.5\\source\\modrimworldraidextension\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ModRimWorldRaidExtension||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,33 +41,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IncidentWorkerHostileTraveler.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\RaidExtensionContinued\\1.5\\Source\\ModRimWorldRaidExtension\\Incident\\IncidentWorkerHostileTraveler.cs",
+              "RelativeDocumentMoniker": "Incident\\IncidentWorkerHostileTraveler.cs",
+              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\RaidExtensionContinued\\1.5\\Source\\ModRimWorldRaidExtension\\Incident\\IncidentWorkerHostileTraveler.cs",
+              "RelativeToolTip": "Incident\\IncidentWorkerHostileTraveler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:26:50.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RaidStrategyWorkerLogging.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\RaidExtensionContinued\\1.5\\Source\\ModRimWorldRaidExtension\\Incident\\RaidStrategyWorkerLogging.cs",
+              "RelativeDocumentMoniker": "Incident\\RaidStrategyWorkerLogging.cs",
+              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\RaidExtensionContinued\\1.5\\Source\\ModRimWorldRaidExtension\\Incident\\RaidStrategyWorkerLogging.cs",
+              "RelativeToolTip": "Incident\\RaidStrategyWorkerLogging.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T01:57:47.875Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "IncidentWorkerPoaching.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\RaidExtensionContinued\\1.5\\Source\\ModRimWorldRaidExtension\\Incident\\IncidentWorkerPoaching.cs",
+              "RelativeDocumentMoniker": "Incident\\IncidentWorkerPoaching.cs",
+              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\RaidExtensionContinued\\1.5\\Source\\ModRimWorldRaidExtension\\Incident\\IncidentWorkerPoaching.cs",
+              "RelativeToolTip": "Incident\\IncidentWorkerPoaching.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:26:18.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IncidentWorkerLogging.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\RaidExtensionContinued\\1.5\\Source\\ModRimWorldRaidExtension\\Incident\\IncidentWorkerLogging.cs",
+              "RelativeDocumentMoniker": "Incident\\IncidentWorkerLogging.cs",
+              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\RaidExtensionContinued\\1.5\\Source\\ModRimWorldRaidExtension\\Incident\\IncidentWorkerLogging.cs",
+              "RelativeToolTip": "Incident\\IncidentWorkerLogging.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:25:42.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HarmonyUtil.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\RaidExtensionContinued\\1.5\\Source\\ModRimWorldRaidExtension\\Util\\HarmonyUtil.cs",
+              "RelativeDocumentMoniker": "Util\\HarmonyUtil.cs",
+              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\RaidExtensionContinued\\1.5\\Source\\ModRimWorldRaidExtension\\Util\\HarmonyUtil.cs",
+              "RelativeToolTip": "Util\\HarmonyUtil.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T01:57:57.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IncidentWorkerHostileTraderCaravanPassing.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\RaidExtensionContinued\\1.5\\Source\\ModRimWorldRaidExtension\\Incident\\IncidentWorkerHostileTraderCaravanPassing.cs",
+              "RelativeDocumentMoniker": "Incident\\IncidentWorkerHostileTraderCaravanPassing.cs",
+              "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\RaidExtensionContinued\\1.5\\Source\\ModRimWorldRaidExtension\\Incident\\IncidentWorkerHostileTraderCaravanPassing.cs",
+              "RelativeToolTip": "Incident\\IncidentWorkerHostileTraderCaravanPassing.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAcwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T01:56:49.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ModRimWorldRaidExtension",
               "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\RaidExtensionContinued\\1.5\\Source\\ModRimWorldRaidExtension\\ModRimWorldRaidExtension.csproj",
               "RelativeDocumentMoniker": "ModRimWorldRaidExtension.csproj",
               "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\RaidExtensionContinued\\1.5\\Source\\ModRimWorldRaidExtension\\ModRimWorldRaidExtension.csproj",
               "RelativeToolTip": "ModRimWorldRaidExtension.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-14T16:17:23.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-14T16:17:23.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "JobGiverAIFightAnimal.cs",
               "DocumentMoniker": "D:\\OneDrive\\Games\\RimworldModSources\\RaidExtensionContinued\\1.5\\Source\\ModRimWorldRaidExtension\\AI\\AISingle\\JobGiverAIFightAnimal.cs",
               "RelativeDocumentMoniker": "AI\\AISingle\\JobGiverAIFightAnimal.cs",
               "ToolTip": "D:\\OneDrive\\Games\\RimworldModSources\\RaidExtensionContinued\\1.5\\Source\\ModRimWorldRaidExtension\\AI\\AISingle\\JobGiverAIFightAnimal.cs",
               "RelativeToolTip": "AI\\AISingle\\JobGiverAIFightAnimal.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAqwDQAAAAcAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowCwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T00:56:27.206Z",
               "EditorCaption": ""
