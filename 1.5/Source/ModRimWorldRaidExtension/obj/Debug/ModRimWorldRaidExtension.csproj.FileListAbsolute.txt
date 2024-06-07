@@ -4,3 +4,5 @@ D:\OneDrive\Games\RimworldModSources\RaidExtensionContinued\1.5\Source\ModRimWor
 D:\OneDrive\Games\RimworldModSources\RaidExtensionContinued\1.5\Source\ModRimWorldRaidExtension\obj\Debug\ModRimWorldRaidExtension.csproj.CoreCompileInputs.cache
 D:\OneDrive\Games\RimworldModSources\RaidExtensionContinued\1.5\Source\ModRimWorldRaidExtension\obj\Debug\ModRimWorldRaidExtension.dll
 D:\OneDrive\Games\RimworldModSources\RaidExtensionContinued\1.5\Source\ModRimWorldRaidExtension\obj\Debug\ModRimWorldRaidExtension.pdb
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\RaidExtensionContinued\1.5\Assemblies\ModRimWorldRaidExtension.dll
+C:\SteamLibrary\steamapps\common\RimWorld\Mods\RaidExtensionContinued\1.5\Assemblies\ModRimWorldRaidExtension.pdb
