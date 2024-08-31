@@ -60,6 +60,8 @@ namespace SR.ModRimWorld.RaidExtension
                 jobMeleeAttack.killIncappedTarget = true;
                 jobMeleeAttack.attackDoorIfTargetLost = true;
                 jobMeleeAttack.canBashDoors = true;
+                jobMeleeAttack.expiryInterval = 100;
+                jobMeleeAttack.checkOverrideOnExpire = true;
                 return jobMeleeAttack;
             }
 
@@ -85,7 +87,7 @@ namespace SR.ModRimWorld.RaidExtension
                 // If we cannot find a shooting position, the animal is possibly in a closed room.
                 // Try to go there and bash anything that is in the way.
                 var goJob = JobMaker.MakeJob(RimWorld.JobDefOf.Goto, enemyTarget);
-                goJob.expiryInterval = ExpiryInterval_ShooterSucceeded.RandomInRange;
+                goJob.expiryInterval = 100;
                 goJob.checkOverrideOnExpire = true;
                 goJob.attackDoorIfTargetLost = true;
                 goJob.canBashDoors = true;
@@ -101,7 +103,7 @@ namespace SR.ModRimWorld.RaidExtension
 
             //走向掩体
             var job = JobMaker.MakeJob(RimWorld.JobDefOf.Goto, dest);
-            job.expiryInterval = ExpiryInterval_ShooterSucceeded.RandomInRange;
+            job.expiryInterval = 100;
             job.checkOverrideOnExpire = true;
             job.attackDoorIfTargetLost = true;
             job.canBashDoors = true;
@@ -155,6 +157,8 @@ namespace SR.ModRimWorld.RaidExtension
             rangeAttackJob.killIncappedTarget = true;
             rangeAttackJob.attackDoorIfTargetLost = true;
             rangeAttackJob.canBashDoors = true;
+            rangeAttackJob.expiryInterval = 100;
+            rangeAttackJob.checkOverrideOnExpire = true;
             return rangeAttackJob;
         }
     }
