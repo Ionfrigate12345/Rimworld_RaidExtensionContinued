@@ -64,6 +64,7 @@
     <Compile Include="AI\AISingle\JobGiverLogging.cs" />
     <Compile Include="AI\AISingle\JobGiverTakePreyExit.cs" />
     <Compile Include="AI\AISingle\JobGiverTakeWoodExit.cs" />
+    <Compile Include="AI\ThinkNode\EnemiesNearby.cs" />
     <Compile Include="DefOf\DutyDefOf.cs" />
     <Compile Include="DefOf\JobDefOf.cs" />
     <Compile Include="DefOf\RaidStrategyDefOf.cs" />
